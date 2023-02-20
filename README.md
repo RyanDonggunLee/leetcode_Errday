@@ -1,7 +1,5 @@
 # LeetCode Errday 😎
 
-## List 📚
+## Topic 🗂️
 
-| List |
-| :--: |
 | [Blind 75](./Blind75/) |

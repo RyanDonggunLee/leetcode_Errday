@@ -1,8 +1,8 @@
 # Blind 75
 
-## List 📚
+## Problems 📚
 
-| List |Topic                          | Title                | Difficulty |  Date             | Result | 
+| List |Topic                          | Title                | Difficulty |  Date             | Status | 
 | :--: |:----------------------------: | :------------------: | :-------:  | :---------------: |:----:| 
 | 01 | Array & Hashing | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | 2/1 |[✅](../ArrayAndHashing/ContainsDuplicate/containsDuplicate.js)|
 | 02 | Array & Hashing | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | 2/2 |[✅](../ArrayAndHashing/ValidAnagram/validAnagram.js)|
