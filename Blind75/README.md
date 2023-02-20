@@ -8,9 +8,9 @@
 | 02 | Array & Hashing | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | 2/2 |[✅](../ArrayAndHashing/ValidAnagram/validAnagram.js)|
 | 03 | Array & Hashing | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | 2/3 |[✅](../ArrayAndHashing/TwoSum/twoSum.js)|
 | 04 | Array & Hashing | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | 2/6 |[✅](../ArrayAndHashing/GroupAnagrams/groupAnagrams.js)|
-| 05 | Array & Hashing | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 2/7 |❎|
-| 06 | Array & Hashing | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 2/8 |❎|
-| 07 | Array & Hashing | [Encode And Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | 2/9 |❎|
+| 05 | Array & Hashing | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 2/7 |❌|
+| 06 | Array & Hashing | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 2/8 |❌|
+| 07 | Array & Hashing | [Encode And Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | 2/9 |❌|
 | 08 | Array & Hashing | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 2/10 |[✅](../ArrayAndHashing/LongestConsecutiveSequence/longestConsecutiveSequence.js)|
 | 09 | Two Pointer | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | 2/13 |[✅](../TwoPointer/ValidPalindrome/validPalindrome.js)|
 | 10 | Two Pointer | [3Sum](https://leetcode.com/problems/3sum/) | Medium | 2/14 |[✅](../TwoPointer/3Sum/3Sum.js)|
