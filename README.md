@@ -1,5 +1,5 @@
 # LeetCode Errday 😎
 
-## Topic 🗂️
+## Topics 🗂️
 
-| [Blind 75](./Blind75/) |
+[Blind 75](./Blind75/)
